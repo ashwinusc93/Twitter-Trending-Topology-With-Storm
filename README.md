@@ -2,7 +2,7 @@
 
 The topology for this example is as follows:
 
-
+![Image](https://github.com/ashwinusc93/Twitter-Trending-Topology-With-Storm/blob/master/storm_topology.png?raw=true)
 
 The topology code implementation is as follows:
 
